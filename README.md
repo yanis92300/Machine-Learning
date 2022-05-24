@@ -1,1 +1,1 @@
-# Machine-Learnign-Algo-From-scratch
+# Machine-Learnin-Algo-From-scratch
